@@ -1,6 +1,6 @@
-# vue-test
-
-> A Vue.js project
+# vue-template
+A Vue.js project template for simple web-site.
+This project created by vue-cli and use element-ui.
 
 ## Build Setup
 
